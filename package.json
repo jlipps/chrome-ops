@@ -1,0 +1,34 @@
+{
+  "name": "chrome-ops",
+  "description": "Helper library for dealing with Chromedriver performance logs",
+  "tags": [
+    "automation",
+    "javascript",
+    "webdriver",
+    "selenium",
+    "wd",
+    "android",
+    "chrome",
+    "chromedriver"
+  ],
+  "version": "0.1.0",
+  "author": "jlipps@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlipps/chrome-ops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jlipps/chrome-ops/issues"
+  },
+  "engines": [
+    "node"
+  ],
+  "main": "./lib/main.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
+
