@@ -1,6 +1,8 @@
 chrome-ops
 ==========
 
+[Presented at Front End Ops Conference 2014](https://www.youtube.com/watch?v=V1qWl2upDHk)
+
 This is a Node.js helper library for dealing with [Chromedriver](https://code.google.com/p/selenium/wiki/ChromeDriver) performance logs. These logs come in a raw JSON format and have a ton of information about Network events, Page Load events, and other elements of app performance. This library exposes various methods to which you can pass the raw logs retrieved from Chromedriver:
 
 ```js
